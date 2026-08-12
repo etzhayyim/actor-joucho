@@ -1,4 +1,4 @@
-# etzhayyim-project-joucho — 情緒 Well-Becoming Scoring
+# actor-joucho — 情緒 Well-Becoming Scoring
 
 **joucho.etzhayyim.com** — Well-Becoming 観点でモノ・場所・サービスの質を評価するスコアリングプラットフォーム。
 

@@ -1,6 +1,6 @@
 {:identity/did "did:web:etzhayyim.com:actor:joucho"
  :identity/also-known-as ["at://joucho.etzhayyim.com"
-                          "https://github.com/etzhayyim/com-etzhayyim-joucho"
+                          "https://github.com/etzhayyim/actor-joucho"
                           "rad:bafkreiczf2ea4yvs53uqyxl6lqt3iibo3g3ujslmkshwo6befrlp6oaoqa"
                           "did:web:etzhayyim.github.io:com-etzhayyim-joucho"]
  :identity/services
