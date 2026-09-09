@@ -1,6 +1,6 @@
 (ns joucho.murakumo
   "Pure cljc actor boundary generated from manifest migration scaffold."
-  (:require [kotoba.lang.text :as str]))
+  (:require [clojure.string :as str]))
 
 (def actor-did
   "did:web:joucho.etzhayyim.com")
