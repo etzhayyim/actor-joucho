@@ -1,6 +1,6 @@
 (ns com.etzhayyim.joucho.murakumo
   "Religious-corp Joucho aggregation actor migrated from kotoba-kotodama."
-  (:require [clojure.string :as str]))
+  (:require [kotoba.lang.text :as str]))
 
 (def actor-did "did:web:joucho.etzhayyim.com")
 (def joucho-collection "com.etzhayyim.joucho.joucho")
