@@ -74,8 +74,8 @@ joucho_score (0-100) = Σ (axis_weight × axis_score)
 
 | File | Role |
 |---|---|
-| `src/com/etzhayyim/joucho/murakumo.cljc` | Religious-corp cljc actor boundary migrated from legacy `kotoba.primitives.joucho_murakumo` |
-| `test/com/etzhayyim/joucho/murakumo_test.cljc` | Pure cljc tests for kyumei signal aggregation and MST effect shape |
+| `src/com/etzhayyim/joucho/murakumo.cljk` | Religious-corp cljc actor boundary migrated from legacy `kotoba.primitives.joucho_murakumo` |
+| `test/com/etzhayyim/joucho/murakumo_test.cljk` | Pure cljc tests for kyumei signal aggregation and MST effect shape |
 
 ## Migration Boundary
 
