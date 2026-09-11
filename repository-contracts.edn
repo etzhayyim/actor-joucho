@@ -6,4 +6,4 @@
  :canonical-data-format :edn
  :dependencies []
  :external-wire-formats #{:atproto-json :json-ld}
- :tests {:command ["npx" "nbb" "--classpath" "src:test" "run_tests.cljs"]}}
+ :tests {:command ["npx" "nbb" "--classpath" "src:test" "run_tests.cljk"]}}
