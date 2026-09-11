@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "test": "nbb --classpath src:test run_tests.cljk",
-    "task": "nbb scripts/run-task.cljk",
-    "tasks": "nbb scripts/run-task.cljk"
+    "test": "kbb --backend sci --classpath src:test run_tests.cljk",
+    "task": "kbb --backend sci scripts/run-task.cljk",
+    "tasks": "kbb --backend sci scripts/run-task.cljk"
   }
 }
